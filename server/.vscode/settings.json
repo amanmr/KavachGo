@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/29bac5ac-2198-428f-836e-03e33394d163/resourceGroups/sheildKavach/providers/Microsoft.Web/sites/sheildKavach",
+    "appService.deploySubpath": "."
+}
